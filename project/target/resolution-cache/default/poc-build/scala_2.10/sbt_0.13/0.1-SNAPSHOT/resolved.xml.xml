@@ -4,7 +4,7 @@
 		module="poc-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170514184810"
+		publication="20170515152024"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

@@ -1,0 +1,421 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\poc\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+19 items
+C:\poc\src\main\scala\KafkaTest.scala -> C:\poc\target\scala-2.11\classes\KafkaTest$$anonfun$1.class
+C:\poc\src\main\scala\KafkaTest.scala -> C:\poc\target\scala-2.11\classes\KafkaTest$$anonfun$2.class
+C:\poc\src\main\scala\KafkaTest.scala -> C:\poc\target\scala-2.11\classes\KafkaTest$$anonfun$3.class
+C:\poc\src\main\scala\KafkaTest.scala -> C:\poc\target\scala-2.11\classes\KafkaTest$$anonfun$4.class
+C:\poc\src\main\scala\KafkaTest.scala -> C:\poc\target\scala-2.11\classes\KafkaTest$$anonfun$5.class
+C:\poc\src\main\scala\KafkaTest.scala -> C:\poc\target\scala-2.11\classes\KafkaTest$$anonfun$6.class
+C:\poc\src\main\scala\KafkaTest.scala -> C:\poc\target\scala-2.11\classes\KafkaTest$.class
+C:\poc\src\main\scala\KafkaTest.scala -> C:\poc\target\scala-2.11\classes\KafkaTest.class
+C:\poc\src\main\scala\SimpleApp.scala -> C:\poc\target\scala-2.11\classes\SimpleApp$$anonfun$1.class
+C:\poc\src\main\scala\SimpleApp.scala -> C:\poc\target\scala-2.11\classes\SimpleApp$$anonfun$2.class
+C:\poc\src\main\scala\SimpleApp.scala -> C:\poc\target\scala-2.11\classes\SimpleApp$.class
+C:\poc\src\main\scala\SimpleApp.scala -> C:\poc\target\scala-2.11\classes\SimpleApp.class
+C:\poc\src\main\scala\StreamingExample.scala -> C:\poc\target\scala-2.11\classes\StreamingExample$.class
+C:\poc\src\main\scala\StreamingExample.scala -> C:\poc\target\scala-2.11\classes\StreamingExample.class
+C:\poc\src\main\scala\WordCount.scala -> C:\poc\target\scala-2.11\classes\WordCount$$anonfun$1.class
+C:\poc\src\main\scala\WordCount.scala -> C:\poc\target\scala-2.11\classes\WordCount$$anonfun$2.class
+C:\poc\src\main\scala\WordCount.scala -> C:\poc\target\scala-2.11\classes\WordCount$$anonfun$3.class
+C:\poc\src\main\scala\WordCount.scala -> C:\poc\target\scala-2.11\classes\WordCount$.class
+C:\poc\src\main\scala\WordCount.scala -> C:\poc\target\scala-2.11\classes\WordCount.class
+binary dependencies:
+15 items
+C:\poc\src\main\scala\KafkaTest.scala -> C:\Users\Avik\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.0.0.jar
+C:\poc\src\main\scala\KafkaTest.scala -> C:\Users\Avik\.ivy2\cache\org.apache.spark\spark-streaming-kafka-0-8_2.11\jars\spark-streaming-kafka-0-8_2.11-2.0.0.jar
+C:\poc\src\main\scala\KafkaTest.scala -> C:\Users\Avik\.ivy2\cache\org.apache.spark\spark-streaming_2.11\jars\spark-streaming_2.11-2.0.0.jar
+C:\poc\src\main\scala\KafkaTest.scala -> C:\Users\Avik\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\poc\src\main\scala\KafkaTest.scala -> C:\jdk1.8.0_60\jre\lib\rt.jar
+C:\poc\src\main\scala\SimpleApp.scala -> C:\Users\Avik\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.0.0.jar
+C:\poc\src\main\scala\SimpleApp.scala -> C:\Users\Avik\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\poc\src\main\scala\SimpleApp.scala -> C:\jdk1.8.0_60\jre\lib\rt.jar
+C:\poc\src\main\scala\StreamingExample.scala -> C:\Users\Avik\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar
+C:\poc\src\main\scala\StreamingExample.scala -> C:\Users\Avik\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.0.0.jar
+C:\poc\src\main\scala\StreamingExample.scala -> C:\Users\Avik\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\poc\src\main\scala\StreamingExample.scala -> C:\jdk1.8.0_60\jre\lib\rt.jar
+C:\poc\src\main\scala\WordCount.scala -> C:\Users\Avik\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.0.0.jar
+C:\poc\src\main\scala\WordCount.scala -> C:\Users\Avik\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+C:\poc\src\main\scala\WordCount.scala -> C:\jdk1.8.0_60\jre\lib\rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+C:\poc\src\main\scala\KafkaTest.scala -> C:\poc\src\main\scala\StreamingExample.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+19 items
+C:\poc\src\main\scala\KafkaTest.scala -> KafkaTest
+C:\poc\src\main\scala\KafkaTest.scala -> KafkaTest$
+C:\poc\src\main\scala\KafkaTest.scala -> KafkaTest$$anonfun$1
+C:\poc\src\main\scala\KafkaTest.scala -> KafkaTest$$anonfun$2
+C:\poc\src\main\scala\KafkaTest.scala -> KafkaTest$$anonfun$3
+C:\poc\src\main\scala\KafkaTest.scala -> KafkaTest$$anonfun$4
+C:\poc\src\main\scala\KafkaTest.scala -> KafkaTest$$anonfun$5
+C:\poc\src\main\scala\KafkaTest.scala -> KafkaTest$$anonfun$6
+C:\poc\src\main\scala\SimpleApp.scala -> SimpleApp
+C:\poc\src\main\scala\SimpleApp.scala -> SimpleApp$
+C:\poc\src\main\scala\SimpleApp.scala -> SimpleApp$$anonfun$1
+C:\poc\src\main\scala\SimpleApp.scala -> SimpleApp$$anonfun$2
+C:\poc\src\main\scala\StreamingExample.scala -> StreamingExample
+C:\poc\src\main\scala\StreamingExample.scala -> StreamingExample$
+C:\poc\src\main\scala\WordCount.scala -> WordCount
+C:\poc\src\main\scala\WordCount.scala -> WordCount$
+C:\poc\src\main\scala\WordCount.scala -> WordCount$$anonfun$1
+C:\poc\src\main\scala\WordCount.scala -> WordCount$$anonfun$2
+C:\poc\src\main\scala\WordCount.scala -> WordCount$$anonfun$3
+used names:
+255 items
+C:\poc\src\main\scala\KafkaTest.scala -> !=
+C:\poc\src\main\scala\KafkaTest.scala -> $conforms
+C:\poc\src\main\scala\KafkaTest.scala -> &&
+C:\poc\src\main\scala\KafkaTest.scala -> +
+C:\poc\src\main\scala\KafkaTest.scala -> -
+C:\poc\src\main\scala\KafkaTest.scala -> <
+C:\poc\src\main\scala\KafkaTest.scala -> <:<
+C:\poc\src\main\scala\KafkaTest.scala -> <init>
+C:\poc\src\main\scala\KafkaTest.scala -> ==
+C:\poc\src\main\scala\KafkaTest.scala -> A
+C:\poc\src\main\scala\KafkaTest.scala -> Any
+C:\poc\src\main\scala\KafkaTest.scala -> AnyRef
+C:\poc\src\main\scala\KafkaTest.scala -> Array
+C:\poc\src\main\scala\KafkaTest.scala -> ArrayOps
+C:\poc\src\main\scala\KafkaTest.scala -> B
+C:\poc\src\main\scala\KafkaTest.scala -> Boolean
+C:\poc\src\main\scala\KafkaTest.scala -> CanBuildFrom
+C:\poc\src\main\scala\KafkaTest.scala -> Class
+C:\poc\src\main\scala\KafkaTest.scala -> ClassTag
+C:\poc\src\main\scala\KafkaTest.scala -> DStream
+C:\poc\src\main\scala\KafkaTest.scala -> Duration
+C:\poc\src\main\scala\KafkaTest.scala -> Function1
+C:\poc\src\main\scala\KafkaTest.scala -> Function2
+C:\poc\src\main\scala\KafkaTest.scala -> IndexedSeq
+C:\poc\src\main\scala\KafkaTest.scala -> Int
+C:\poc\src\main\scala\KafkaTest.scala -> K
+C:\poc\src\main\scala\KafkaTest.scala -> KafkaTest
+C:\poc\src\main\scala\KafkaTest.scala -> KafkaUtils
+C:\poc\src\main\scala\KafkaTest.scala -> Long
+C:\poc\src\main\scala\KafkaTest.scala -> Map
+C:\poc\src\main\scala\KafkaTest.scala -> MatchError
+C:\poc\src\main\scala\KafkaTest.scala -> Minutes
+C:\poc\src\main\scala\KafkaTest.scala -> Nothing
+C:\poc\src\main\scala\KafkaTest.scala -> Object
+C:\poc\src\main\scala\KafkaTest.scala -> Option
+C:\poc\src\main\scala\KafkaTest.scala -> Ordering
+C:\poc\src\main\scala\KafkaTest.scala -> PairDStreamFunctions
+C:\poc\src\main\scala\KafkaTest.scala -> Predef
+C:\poc\src\main\scala\KafkaTest.scala -> PrintStream
+C:\poc\src\main\scala\KafkaTest.scala -> ReceiverInputDStream
+C:\poc\src\main\scala\KafkaTest.scala -> Seconds
+C:\poc\src\main\scala\KafkaTest.scala -> SparkConf
+C:\poc\src\main\scala\KafkaTest.scala -> StorageLevel
+C:\poc\src\main\scala\KafkaTest.scala -> StreamingContext
+C:\poc\src\main\scala\KafkaTest.scala -> StreamingExample
+C:\poc\src\main\scala\KafkaTest.scala -> String
+C:\poc\src\main\scala\KafkaTest.scala -> StringOps
+C:\poc\src\main\scala\KafkaTest.scala -> System
+C:\poc\src\main\scala\KafkaTest.scala -> T
+C:\poc\src\main\scala\KafkaTest.scala -> T1
+C:\poc\src\main\scala\KafkaTest.scala -> T2
+C:\poc\src\main\scala\KafkaTest.scala -> T3
+C:\poc\src\main\scala\KafkaTest.scala -> T4
+C:\poc\src\main\scala\KafkaTest.scala -> That
+C:\poc\src\main\scala\KafkaTest.scala -> TraversableOnce
+C:\poc\src\main\scala\KafkaTest.scala -> Tuple2
+C:\poc\src\main\scala\KafkaTest.scala -> Tuple4
+C:\poc\src\main\scala\KafkaTest.scala -> U
+C:\poc\src\main\scala\KafkaTest.scala -> Unit
+C:\poc\src\main\scala\KafkaTest.scala -> V
+C:\poc\src\main\scala\KafkaTest.scala -> _$4
+C:\poc\src\main\scala\KafkaTest.scala -> _$7
+C:\poc\src\main\scala\KafkaTest.scala -> _1
+C:\poc\src\main\scala\KafkaTest.scala -> _2
+C:\poc\src\main\scala\KafkaTest.scala -> _3
+C:\poc\src\main\scala\KafkaTest.scala -> _4
+C:\poc\src\main\scala\KafkaTest.scala -> apache
+C:\poc\src\main\scala\KafkaTest.scala -> apply
+C:\poc\src\main\scala\KafkaTest.scala -> args
+C:\poc\src\main\scala\KafkaTest.scala -> augmentString
+C:\poc\src\main\scala\KafkaTest.scala -> awaitTermination
+C:\poc\src\main\scala\KafkaTest.scala -> canBuildFrom
+C:\poc\src\main\scala\KafkaTest.scala -> checkpoint
+C:\poc\src\main\scala\KafkaTest.scala -> createStream
+C:\poc\src\main\scala\KafkaTest.scala -> dstream
+C:\poc\src\main\scala\KafkaTest.scala -> err
+C:\poc\src\main\scala\KafkaTest.scala -> exit
+C:\poc\src\main\scala\KafkaTest.scala -> flatMap
+C:\poc\src\main\scala\KafkaTest.scala -> get
+C:\poc\src\main\scala\KafkaTest.scala -> group
+C:\poc\src\main\scala\KafkaTest.scala -> isEmpty
+C:\poc\src\main\scala\KafkaTest.scala -> java
+C:\poc\src\main\scala\KafkaTest.scala -> kafka
+C:\poc\src\main\scala\KafkaTest.scala -> lang
+C:\poc\src\main\scala\KafkaTest.scala -> length
+C:\poc\src\main\scala\KafkaTest.scala -> lengthCompare
+C:\poc\src\main\scala\KafkaTest.scala -> lines
+C:\poc\src\main\scala\KafkaTest.scala -> map
+C:\poc\src\main\scala\KafkaTest.scala -> materializeClassTag
+C:\poc\src\main\scala\KafkaTest.scala -> math
+C:\poc\src\main\scala\KafkaTest.scala -> numThreads
+C:\poc\src\main\scala\KafkaTest.scala -> org
+C:\poc\src\main\scala\KafkaTest.scala -> package
+C:\poc\src\main\scala\KafkaTest.scala -> print
+C:\poc\src\main\scala\KafkaTest.scala -> println
+C:\poc\src\main\scala\KafkaTest.scala -> qual$1
+C:\poc\src\main\scala\KafkaTest.scala -> reduceByKeyAndWindow
+C:\poc\src\main\scala\KafkaTest.scala -> refArrayOps
+C:\poc\src\main\scala\KafkaTest.scala -> scala
+C:\poc\src\main\scala\KafkaTest.scala -> setAppName
+C:\poc\src\main\scala\KafkaTest.scala -> setStreamingLogLevels
+C:\poc\src\main\scala\KafkaTest.scala -> spark
+C:\poc\src\main\scala\KafkaTest.scala -> sparkConf
+C:\poc\src\main\scala\KafkaTest.scala -> split
+C:\poc\src\main\scala\KafkaTest.scala -> ssc
+C:\poc\src\main\scala\KafkaTest.scala -> start
+C:\poc\src\main\scala\KafkaTest.scala -> streaming
+C:\poc\src\main\scala\KafkaTest.scala -> toInt
+C:\poc\src\main\scala\KafkaTest.scala -> toMap
+C:\poc\src\main\scala\KafkaTest.scala -> toPairDStreamFunctions
+C:\poc\src\main\scala\KafkaTest.scala -> topicMap
+C:\poc\src\main\scala\KafkaTest.scala -> topics
+C:\poc\src\main\scala\KafkaTest.scala -> unapplySeq
+C:\poc\src\main\scala\KafkaTest.scala -> unary_!
+C:\poc\src\main\scala\KafkaTest.scala -> unchecked
+C:\poc\src\main\scala\KafkaTest.scala -> wordCounts
+C:\poc\src\main\scala\KafkaTest.scala -> words
+C:\poc\src\main\scala\KafkaTest.scala -> x
+C:\poc\src\main\scala\KafkaTest.scala -> x$10
+C:\poc\src\main\scala\KafkaTest.scala -> x$11
+C:\poc\src\main\scala\KafkaTest.scala -> x$12
+C:\poc\src\main\scala\KafkaTest.scala -> x$13
+C:\poc\src\main\scala\KafkaTest.scala -> x$14
+C:\poc\src\main\scala\KafkaTest.scala -> x$9
+C:\poc\src\main\scala\KafkaTest.scala -> zkQuorum
+C:\poc\src\main\scala\SimpleApp.scala -> +
+C:\poc\src\main\scala\SimpleApp.scala -> <init>
+C:\poc\src\main\scala\SimpleApp.scala -> Any
+C:\poc\src\main\scala\SimpleApp.scala -> AnyRef
+C:\poc\src\main\scala\SimpleApp.scala -> Array
+C:\poc\src\main\scala\SimpleApp.scala -> Boolean
+C:\poc\src\main\scala\SimpleApp.scala -> CharSequence
+C:\poc\src\main\scala\SimpleApp.scala -> Function1
+C:\poc\src\main\scala\SimpleApp.scala -> Int
+C:\poc\src\main\scala\SimpleApp.scala -> Long
+C:\poc\src\main\scala\SimpleApp.scala -> Object
+C:\poc\src\main\scala\SimpleApp.scala -> Predef
+C:\poc\src\main\scala\SimpleApp.scala -> RDD
+C:\poc\src\main\scala\SimpleApp.scala -> SimpleApp
+C:\poc\src\main\scala\SimpleApp.scala -> SparkConf
+C:\poc\src\main\scala\SimpleApp.scala -> SparkContext
+C:\poc\src\main\scala\SimpleApp.scala -> String
+C:\poc\src\main\scala\SimpleApp.scala -> Unit
+C:\poc\src\main\scala\SimpleApp.scala -> apache
+C:\poc\src\main\scala\SimpleApp.scala -> cache
+C:\poc\src\main\scala\SimpleApp.scala -> conf
+C:\poc\src\main\scala\SimpleApp.scala -> contains
+C:\poc\src\main\scala\SimpleApp.scala -> count
+C:\poc\src\main\scala\SimpleApp.scala -> filter
+C:\poc\src\main\scala\SimpleApp.scala -> line
+C:\poc\src\main\scala\SimpleApp.scala -> logData
+C:\poc\src\main\scala\SimpleApp.scala -> logFile
+C:\poc\src\main\scala\SimpleApp.scala -> numAs
+C:\poc\src\main\scala\SimpleApp.scala -> numBs
+C:\poc\src\main\scala\SimpleApp.scala -> org
+C:\poc\src\main\scala\SimpleApp.scala -> println
+C:\poc\src\main\scala\SimpleApp.scala -> sc
+C:\poc\src\main\scala\SimpleApp.scala -> scala
+C:\poc\src\main\scala\SimpleApp.scala -> set
+C:\poc\src\main\scala\SimpleApp.scala -> setAppName
+C:\poc\src\main\scala\SimpleApp.scala -> setMaster
+C:\poc\src\main\scala\SimpleApp.scala -> spark
+C:\poc\src\main\scala\SimpleApp.scala -> stop
+C:\poc\src\main\scala\SimpleApp.scala -> textFile
+C:\poc\src\main\scala\StreamingExample.scala -> <init>
+C:\poc\src\main\scala\StreamingExample.scala -> ?0
+C:\poc\src\main\scala\StreamingExample.scala -> Any
+C:\poc\src\main\scala\StreamingExample.scala -> AnyRef
+C:\poc\src\main\scala\StreamingExample.scala -> Boolean
+C:\poc\src\main\scala\StreamingExample.scala -> Enumeration
+C:\poc\src\main\scala\StreamingExample.scala -> Level
+C:\poc\src\main\scala\StreamingExample.scala -> Logger
+C:\poc\src\main\scala\StreamingExample.scala -> Logging
+C:\poc\src\main\scala\StreamingExample.scala -> Nothing
+C:\poc\src\main\scala\StreamingExample.scala -> Object
+C:\poc\src\main\scala\StreamingExample.scala -> StreamingExample
+C:\poc\src\main\scala\StreamingExample.scala -> Unit
+C:\poc\src\main\scala\StreamingExample.scala -> WARN
+C:\poc\src\main\scala\StreamingExample.scala -> apache
+C:\poc\src\main\scala\StreamingExample.scala -> getAllAppenders
+C:\poc\src\main\scala\StreamingExample.scala -> getRootLogger
+C:\poc\src\main\scala\StreamingExample.scala -> hasMoreElements
+C:\poc\src\main\scala\StreamingExample.scala -> internal
+C:\poc\src\main\scala\StreamingExample.scala -> log4j
+C:\poc\src\main\scala\StreamingExample.scala -> log4jInitialized
+C:\poc\src\main\scala\StreamingExample.scala -> org
+C:\poc\src\main\scala\StreamingExample.scala -> scala
+C:\poc\src\main\scala\StreamingExample.scala -> setLevel
+C:\poc\src\main\scala\StreamingExample.scala -> spark
+C:\poc\src\main\scala\StreamingExample.scala -> unary_!
+C:\poc\src\main\scala\WordCount.scala -> +
+C:\poc\src\main\scala\WordCount.scala -> <init>
+C:\poc\src\main\scala\WordCount.scala -> Any
+C:\poc\src\main\scala\WordCount.scala -> AnyRef
+C:\poc\src\main\scala\WordCount.scala -> Array
+C:\poc\src\main\scala\WordCount.scala -> ArrayOps
+C:\poc\src\main\scala\WordCount.scala -> Boolean
+C:\poc\src\main\scala\WordCount.scala -> Class
+C:\poc\src\main\scala\WordCount.scala -> ClassTag
+C:\poc\src\main\scala\WordCount.scala -> Function1
+C:\poc\src\main\scala\WordCount.scala -> Function2
+C:\poc\src\main\scala\WordCount.scala -> Int
+C:\poc\src\main\scala\WordCount.scala -> K
+C:\poc\src\main\scala\WordCount.scala -> MatchError
+C:\poc\src\main\scala\WordCount.scala -> Nothing
+C:\poc\src\main\scala\WordCount.scala -> Object
+C:\poc\src\main\scala\WordCount.scala -> Ordering
+C:\poc\src\main\scala\WordCount.scala -> PairRDDFunctions
+C:\poc\src\main\scala\WordCount.scala -> Predef
+C:\poc\src\main\scala\WordCount.scala -> RDD
+C:\poc\src\main\scala\WordCount.scala -> SparkConf
+C:\poc\src\main\scala\WordCount.scala -> SparkContext
+C:\poc\src\main\scala\WordCount.scala -> String
+C:\poc\src\main\scala\WordCount.scala -> T
+C:\poc\src\main\scala\WordCount.scala -> T1
+C:\poc\src\main\scala\WordCount.scala -> T2
+C:\poc\src\main\scala\WordCount.scala -> TraversableOnce
+C:\poc\src\main\scala\WordCount.scala -> Tuple2
+C:\poc\src\main\scala\WordCount.scala -> U
+C:\poc\src\main\scala\WordCount.scala -> Unit
+C:\poc\src\main\scala\WordCount.scala -> V
+C:\poc\src\main\scala\WordCount.scala -> WordCount
+C:\poc\src\main\scala\WordCount.scala -> _$7
+C:\poc\src\main\scala\WordCount.scala -> _1
+C:\poc\src\main\scala\WordCount.scala -> _2
+C:\poc\src\main\scala\WordCount.scala -> apache
+C:\poc\src\main\scala\WordCount.scala -> apply
+C:\poc\src\main\scala\WordCount.scala -> conf
+C:\poc\src\main\scala\WordCount.scala -> counts
+C:\poc\src\main\scala\WordCount.scala -> flatMap
+C:\poc\src\main\scala\WordCount.scala -> input
+C:\poc\src\main\scala\WordCount.scala -> line
+C:\poc\src\main\scala\WordCount.scala -> map
+C:\poc\src\main\scala\WordCount.scala -> materializeClassTag
+C:\poc\src\main\scala\WordCount.scala -> math
+C:\poc\src\main\scala\WordCount.scala -> ne
+C:\poc\src\main\scala\WordCount.scala -> org
+C:\poc\src\main\scala\WordCount.scala -> package
+C:\poc\src\main\scala\WordCount.scala -> rdd
+C:\poc\src\main\scala\WordCount.scala -> rddToPairRDDFunctions
+C:\poc\src\main\scala\WordCount.scala -> reduceByKey
+C:\poc\src\main\scala\WordCount.scala -> refArrayOps
+C:\poc\src\main\scala\WordCount.scala -> saveAsTextFile
+C:\poc\src\main\scala\WordCount.scala -> sc
+C:\poc\src\main\scala\WordCount.scala -> scala
+C:\poc\src\main\scala\WordCount.scala -> set
+C:\poc\src\main\scala\WordCount.scala -> setAppName
+C:\poc\src\main\scala\WordCount.scala -> setMaster
+C:\poc\src\main\scala\WordCount.scala -> spark
+C:\poc\src\main\scala\WordCount.scala -> split
+C:\poc\src\main\scala\WordCount.scala -> textFile
+C:\poc\src\main\scala\WordCount.scala -> word
+C:\poc\src\main\scala\WordCount.scala -> words
+C:\poc\src\main\scala\WordCount.scala -> x
+C:\poc\src\main\scala\WordCount.scala -> y
+product stamps:
+19 items
+C:\poc\target\scala-2.11\classes\KafkaTest$$anonfun$1.class -> lastModified(1494884056926)
+C:\poc\target\scala-2.11\classes\KafkaTest$$anonfun$2.class -> lastModified(1494884056942)
+C:\poc\target\scala-2.11\classes\KafkaTest$$anonfun$3.class -> lastModified(1494884056942)
+C:\poc\target\scala-2.11\classes\KafkaTest$$anonfun$4.class -> lastModified(1494884056958)
+C:\poc\target\scala-2.11\classes\KafkaTest$$anonfun$5.class -> lastModified(1494884056958)
+C:\poc\target\scala-2.11\classes\KafkaTest$$anonfun$6.class -> lastModified(1494884056973)
+C:\poc\target\scala-2.11\classes\KafkaTest$.class -> lastModified(1494884056895)
+C:\poc\target\scala-2.11\classes\KafkaTest.class -> lastModified(1494884056770)
+C:\poc\target\scala-2.11\classes\SimpleApp$$anonfun$1.class -> lastModified(1494884056989)
+C:\poc\target\scala-2.11\classes\SimpleApp$$anonfun$2.class -> lastModified(1494884056989)
+C:\poc\target\scala-2.11\classes\SimpleApp$.class -> lastModified(1494884056973)
+C:\poc\target\scala-2.11\classes\SimpleApp.class -> lastModified(1494884056973)
+C:\poc\target\scala-2.11\classes\StreamingExample$.class -> lastModified(1494884057004)
+C:\poc\target\scala-2.11\classes\StreamingExample.class -> lastModified(1494884056989)
+C:\poc\target\scala-2.11\classes\WordCount$$anonfun$1.class -> lastModified(1494884057020)
+C:\poc\target\scala-2.11\classes\WordCount$$anonfun$2.class -> lastModified(1494884057020)
+C:\poc\target\scala-2.11\classes\WordCount$$anonfun$3.class -> lastModified(1494884057036)
+C:\poc\target\scala-2.11\classes\WordCount$.class -> lastModified(1494884057004)
+C:\poc\target\scala-2.11\classes\WordCount.class -> lastModified(1494884057004)
+source stamps:
+4 items
+C:\poc\src\main\scala\KafkaTest.scala -> hash(637a2f962f5330b1423d1c6f7d927415a3d8fdba)
+C:\poc\src\main\scala\SimpleApp.scala -> hash(a9a271bef257b7d25e6def0a5c3950d4a95239c2)
+C:\poc\src\main\scala\StreamingExample.scala -> hash(a91fb1b9b394690a3ca35c0f1433f509e75e263a)
+C:\poc\src\main\scala\WordCount.scala -> hash(714f597aacd2f5a4e5f976c08125785a0258f189)
+binary stamps:
+6 items
+C:\jdk1.8.0_60\jre\lib\rt.jar -> lastModified(1494426569660)
+C:\Users\Avik\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar -> lastModified(1338025419000)
+C:\Users\Avik\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.0.0.jar -> lastModified(1468969501000)
+C:\Users\Avik\.ivy2\cache\org.apache.spark\spark-streaming-kafka-0-8_2.11\jars\spark-streaming-kafka-0-8_2.11-2.0.0.jar -> lastModified(1468969132000)
+C:\Users\Avik\.ivy2\cache\org.apache.spark\spark-streaming_2.11\jars\spark-streaming_2.11-2.0.0.jar -> lastModified(1468969513000)
+C:\Users\Avik\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+6 items
+C:\jdk1.8.0_60\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Avik\.ivy2\cache\log4j\log4j\bundles\log4j-1.2.17.jar -> org.apache.log4j.Level
+C:\Users\Avik\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.0.0.jar -> org.apache.spark.SparkConf
+C:\Users\Avik\.ivy2\cache\org.apache.spark\spark-streaming-kafka-0-8_2.11\jars\spark-streaming-kafka-0-8_2.11-2.0.0.jar -> org.apache.spark.streaming.kafka.KafkaUtils
+C:\Users\Avik\.ivy2\cache\org.apache.spark\spark-streaming_2.11\jars\spark-streaming_2.11-2.0.0.jar -> org.apache.spark.streaming.dstream.ReceiverInputDStream
+C:\Users\Avik\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.reflect.ClassTag$
+internal apis:
+4 items
+C:\poc\src\main\scala\KafkaTest.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw8DAufQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw3hYoO3QABm5vdGlmeXNxAH4ADLLgGjp0AAR3YWl0c3EAfgAM2eKxl3QADSRhc0luc3RhbmNlT2ZzcQB+AAzk2a7adAAGZXF1YWxzc3EAfgAME6+UFHQADGFzSW5zdGFuY2VPZnNxAH4ADDOGvxd0AAxzeW5jaHJvbml6ZWRzcQB+AAxS8SNedAANJGlzSW5zdGFuY2VPZnNxAH4ADNFCfkF0AARtYWluc3EAfgAM6XAIo3QACW5vdGlmeUFsbHNxAH4ADD7PlUB0AAxpc0luc3RhbmNlT2ZzcQB+AAxRFzjUdAACPT1zcQB+AAx1LRcZdAAFY2xvbmVzcQB+AAzezZHydAAJS2Fma2FUZXN0c3EAfgAM/iXphHQACHRvU3RyaW5nc3EAfgAMEC5WDXQAAiE9c3EAfgAM9bDRznQACGdldENsYXNzc3EAfgAM2sOhL3QAAm5lc3EAfgAMJguHWXQAAmVxc3EAfgAMAbPUrnQAAiMjc3EAfgAM9B7pDXQACGZpbmFsaXplc3EAfgAMOCVvT3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFxzcQB+AGt0AAVBcnJheXEAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGt0AAZTdHJpbmdzcQB+AG9zcQB+AHJ1cQB+AHUAAAADc3EAfgB3dAAEamF2YXNxAH4Ad3QABGxhbmdxAH4AfHNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+AJAAAAACc3EAfgBrdAAGT2JqZWN0cQB+AJRzcQB+AGt0AANBbnlxAH4AcXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcDghXQ3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ACBDOlxwb2NcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGN6L5YvUzCxQj0cb32SdBWj2P26
+C:\poc\src\main\scala\SimpleApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwLuE+IgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwYNW/OXQABm5vdGlmeXNxAH4ADPiwm3N0AAR3YWl0c3EAfgAMxGx9tHQADSRhc0luc3RhbmNlT2ZzcQB+AAzzY+lkdAAGZXF1YWxzc3EAfgAMXcndWHQADGFzSW5zdGFuY2VPZnNxAH4ADGT2SL90AAxzeW5jaHJvbml6ZWRzcQB+AAyq0VVndAANJGlzSW5zdGFuY2VPZnNxAH4ADDmdyMl0AARtYWluc3EAfgAMLN6g13QACW5vdGlmeUFsbHNxAH4ADOAOovt0AAxpc0luc3RhbmNlT2ZzcQB+AAx0yo2KdAACPT1zcQB+AAy2AkmOdAAFY2xvbmVzcQB+AAwWiHTWdAAJU2ltcGxlQXBwc3EAfgAMPLKyX3QACHRvU3RyaW5nc3EAfgAMBf25KXQAAiE9c3EAfgAMEf6S33QACGdldENsYXNzc3EAfgAMjWkRK3QAAm5lc3EAfgAMFhuSTHQAAmVxc3EAfgAMwnNveHQAAiMjc3EAfgAMsPwuBXQACGZpbmFsaXplc3EAfgAMXUciP3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFxzcQB+AGt0AAVBcnJheXEAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGt0AAZTdHJpbmdzcQB+AG9zcQB+AHJ1cQB+AHUAAAADc3EAfgB3dAAEamF2YXNxAH4Ad3QABGxhbmdxAH4AfHNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+AJAAAAACc3EAfgBrdAAGT2JqZWN0cQB+AJRzcQB+AGt0AANBbnlxAH4AcXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcDghXQ3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ACBDOlxwb2NcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFKmicb7yV7fSXm3vClw5UNSpUjnC
+C:\poc\src\main\scala\StreamingExample.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw4BUItgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw8/Cq/XQAEFN0cmVhbWluZ0V4YW1wbGVzcQB+AAxaGXDGdAAGbm90aWZ5c3EAfgAMp4INsnQABHdhaXRzcQB+AAxZY9HNdAANJGFzSW5zdGFuY2VPZnNxAH4ADD0J2550ABVzZXRTdHJlYW1pbmdMb2dMZXZlbHNzcQB+AAwB+4gedAAGZXF1YWxzc3EAfgAMIWI3qnQADGFzSW5zdGFuY2VPZnNxAH4ADDD3iGF0AAxzeW5jaHJvbml6ZWRzcQB+AAxfOJ4EdAANJGlzSW5zdGFuY2VPZnNxAH4ADB7ZOJl0AAlub3RpZnlBbGxzcQB+AAy4SkTDdAAMaXNJbnN0YW5jZU9mc3EAfgAMkKPksXQAAj09c3EAfgAMVsVIyHQABWNsb25lc3EAfgAMBxUp3nQACHRvU3RyaW5nc3EAfgAMEHeZR3QAAiE9c3EAfgAM38FzbHQACGdldENsYXNzc3EAfgAMlIX1vnQAAm5lc3EAfgAMs0sv8XQAAmVxc3EAfgAMOzbf8nQAAiMjc3EAfgAMjNW76nQACGZpbmFsaXplc3EAfgAMUCMyIHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAPdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+ADwAAAAAc3EAfgBYdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBcc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB1dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB2c3EAfgBpdAADQW55c3EAfgBtc3EAfgBwdXEAfgBzAAAAAnNxAH4AdXQABXNjYWxhcQB+AHx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXA4IV0N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAAgQzpccG9jXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSpH7G5s5RpCjyjXA8UM/UJ514mOg==
+C:\poc\src\main\scala\WordCount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw/ObvAQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw0fD9aHQABm5vdGlmeXNxAH4ADLI25MZ0AAR3YWl0c3EAfgAMjuPLh3QADSRhc0luc3RhbmNlT2ZzcQB+AAwqEsVidAAGZXF1YWxzc3EAfgAMBNdwHXQADGFzSW5zdGFuY2VPZnNxAH4ADIfSYWR0AAxzeW5jaHJvbml6ZWRzcQB+AAxbm5LTdAANJGlzSW5zdGFuY2VPZnNxAH4ADJ7LVdR0AARtYWluc3EAfgAMPdFNz3QACVdvcmRDb3VudHNxAH4ADNMrK590AAlub3RpZnlBbGxzcQB+AAw5p6mAdAAMaXNJbnN0YW5jZU9mc3EAfgAMWYDF33QAAj09c3EAfgAMhBrzNnQABWNsb25lc3EAfgAMUeyE9HQACHRvU3RyaW5nc3EAfgAMqVDfXXQAAiE9c3EAfgAMoVa1bHQACGdldENsYXNzc3EAfgAMC2Fm/XQAAm5lc3EAfgAM5t1O7nQAAmVxc3EAfgAMs9Iim3QAAiMjc3EAfgAMF2aTnXQACGZpbmFsaXplc3EAfgAMT1bYrnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAfdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQAA2Fnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXHNxAH4Aa3QABUFycmF5cQB+AHF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Aa3QABlN0cmluZ3NxAH4Ab3NxAH4AcnVxAH4AdQAAAANzcQB+AHd0AARqYXZhc3EAfgB3dAAEbGFuZ3EAfgB8c3EAfgBYdXEAfgA8AAAAAHNxAH4AWHVxAH4AkAAAAAJzcQB+AGt0AAZPYmplY3RxAH4AlHNxAH4Aa3QAA0FueXEAfgBxdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVwOCFdDdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAIEM6XHBvY1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUcU9ZeqzS9aTl+XbAgSV4WgJY8Yk=
+external apis:
+0 items
+source infos:
+4 items
+C:\poc\src\main\scala\KafkaTest.scala -> 
+AAAAAAAAAAA=
+C:\poc\src\main\scala\SimpleApp.scala -> 
+AAAAAAAAAAA=
+C:\poc\src\main\scala\StreamingExample.scala -> 
+AAAAAAAAAAA=
+C:\poc\src\main\scala\WordCount.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXA4IV0N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAIEM6XHBvY1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
